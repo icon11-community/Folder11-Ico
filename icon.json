@@ -2311,6 +2311,12 @@
       "hash": "5783af3a6a3b2d33916f2ce149a39ce01e7de874"
     },
     {
+      "name": "google_family",
+      "size": "151168",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/google_family.ico",
+      "hash": "3f7b73f6b4b236961aa08b8d2a21ac79c4edfa98"
+    },
+    {
       "name": "google_mail",
       "size": "147108",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/google_mail.ico",
@@ -3353,6 +3359,12 @@
       "size": "150555",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_defender.ico",
       "hash": "8ce378b72616666999876a2ebcac65103bbc36ae"
+    },
+    {
+      "name": "microsoft_designer",
+      "size": "156169",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_designer.ico",
+      "hash": "5950fff3fe049a28acf4c7aa3c8734d6f078be0a"
     },
     {
       "name": "microsoft_dynamics_365_business_central",
