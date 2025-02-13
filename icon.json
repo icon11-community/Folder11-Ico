@@ -61,6 +61,12 @@
       "hash": "11b08456cec43c1a0b22a3abcc253c3131e8ce1f"
     },
     {
+      "name": "Contacts",
+      "size": "151248",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Contacts.ico",
+      "hash": "862d94b57772da421c2d2bfa3019e7fa25897f5c"
+    },
+    {
       "name": "CorelDRAW_AfterShot",
       "size": "149400",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDRAW_AfterShot.ico",
@@ -119,6 +125,24 @@
       "size": "162707",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDraw_Painter.ico",
       "hash": "f31e4a7dccb9d692b0756d2127770c65feafe392"
+    },
+    {
+      "name": "Deepseek",
+      "size": "151492",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Deepseek.ico",
+      "hash": "e6c8acc984e622bdcee54c6744a3c02b48c76687"
+    },
+    {
+      "name": "Font-2",
+      "size": "152044",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Font-2.ico",
+      "hash": "7706322bd8a6a23b2927baaf34043ea99be2c7cf"
+    },
+    {
+      "name": "Font",
+      "size": "155840",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Font.ico",
+      "hash": "88a0ed40d78f72e7b6ca1eb68b9af0627dd0ed2d"
     },
     {
       "name": "Forza_horizon_4",
