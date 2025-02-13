@@ -61,6 +61,66 @@
       "hash": "11b08456cec43c1a0b22a3abcc253c3131e8ce1f"
     },
     {
+      "name": "CorelDRAW_AfterShot",
+      "size": "149400",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDRAW_AfterShot.ico",
+      "hash": "962c39d3a0495d5ccfebe44e083cbe7b493302d2"
+    },
+    {
+      "name": "CorelDRAW_Graphics_Suite-1",
+      "size": "162828",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDRAW_Graphics_Suite-1.ico",
+      "hash": "3dcee4725e8c6894cbb5448b20daaf0ff1befbbd"
+    },
+    {
+      "name": "CorelDRAW_Graphics_Suite",
+      "size": "156847",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDRAW_Graphics_Suite.ico",
+      "hash": "db31be423e0befd4ff277b5d46da1cd356ae3d3d"
+    },
+    {
+      "name": "CorelDRAW_PaintShop_Pro",
+      "size": "152521",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDRAW_PaintShop_Pro.ico",
+      "hash": "be751cdcfa94f9aa43cad93e82c763607c1658e9"
+    },
+    {
+      "name": "CorelDRAW_PhotoMirage",
+      "size": "159369",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDRAW_PhotoMirage.ico",
+      "hash": "5cfac66c62a137b73a26d54669c378466446869e"
+    },
+    {
+      "name": "CorelDRAW_Pinnacle_Studio",
+      "size": "150850",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDRAW_Pinnacle_Studio.ico",
+      "hash": "b1b003db391567f6f91901935c81114e8f239446"
+    },
+    {
+      "name": "CorelDRAW_Roxio",
+      "size": "149867",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDRAW_Roxio.ico",
+      "hash": "e3bb3249ac2a76d1fd73e709ca023be2f02c4fd0"
+    },
+    {
+      "name": "CorelDRAW_VideoStudio",
+      "size": "155946",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDRAW_VideoStudio.ico",
+      "hash": "b4a8f02de46b7ba663060f4d5ab694c5603663eb"
+    },
+    {
+      "name": "CorelDRAW_WordPerfect_Office",
+      "size": "155871",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDRAW_WordPerfect_Office.ico",
+      "hash": "0b1e641422816fc110a4996855a85183b9d84079"
+    },
+    {
+      "name": "CorelDraw_Painter",
+      "size": "162707",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CorelDraw_Painter.ico",
+      "hash": "f31e4a7dccb9d692b0756d2127770c65feafe392"
+    },
+    {
       "name": "Forza_horizon_4",
       "size": "149442",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Forza_horizon_4.ico",
@@ -1283,12 +1343,6 @@
       "size": "156005",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/cordova.ico",
       "hash": "210a0bff27481e1df1edf77e45ab2328835e9067"
-    },
-    {
-      "name": "corel_draw-1",
-      "size": "162828",
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/corel_draw-1.ico",
-      "hash": "3dcee4725e8c6894cbb5448b20daaf0ff1befbbd"
     },
     {
       "name": "corona_sdk",
