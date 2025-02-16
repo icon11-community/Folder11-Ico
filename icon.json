@@ -239,6 +239,13 @@
       "date": "2023-05-29T17:59:55+07:00"
     },
     {
+      "name": "ab-download-manager",
+      "size": "152767",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/ab-download-manager.ico",
+      "hash": "d3c5c54bcc61a86e9fc8baa8c8e0a3bf67eb6882",
+      "date": "2025-02-17T00:39:08+08:00"
+    },
+    {
       "name": "ableton",
       "size": "144524",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/ableton.ico",
@@ -6869,10 +6876,10 @@
     },
     {
       "name": "wechat",
-      "size": "150559",
+      "size": "152525",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/wechat.ico",
-      "hash": "8450e58e85fd432373e0ceeb1a63a146766596ed",
-      "date": "2022-02-07T09:46:39+07:00"
+      "hash": "cafa35604b43b84bfb0289ae1bc6312aa5cf35d6",
+      "date": "2025-02-17T00:25:31+08:00"
     },
     {
       "name": "whatsapp",
