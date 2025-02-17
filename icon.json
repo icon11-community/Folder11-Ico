@@ -239,11 +239,11 @@
       "date": "2023-05-29T17:59:55+07:00"
     },
     {
-      "name": "ab-download-manager",
-      "size": "152767",
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/ab-download-manager.ico",
-      "hash": "311d50fffe36cba774d297cbaaf95ed4c741805a",
-      "date": "2025-02-17T16:31:24+07:00"
+      "name": "ab_download_manager",
+      "size": "153345",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/ab_download_manager.ico",
+      "hash": "237929e508795316b147213a9de58047e0478721",
+      "date": "2025-02-17T10:16:14+08:00"
     },
     {
       "name": "ableton",
@@ -979,6 +979,13 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/ansible.ico",
       "hash": "7fd1ea51d4e821c7c807beb44f0b3f8c2cb582b8",
       "date": "2023-11-10T14:14:26+07:00"
+    },
+    {
+      "name": "anthropic",
+      "size": "144990",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/anthropic.ico",
+      "hash": "9e097583592123790afab64b7d639526f56cf10e",
+      "date": "2025-02-17T10:10:42+08:00"
     },
     {
       "name": "aorus",
@@ -6932,10 +6939,10 @@
     },
     {
       "name": "wechat",
-      "size": "152525",
+      "size": "152912",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/wechat.ico",
-      "hash": "cafa35604b43b84bfb0289ae1bc6312aa5cf35d6",
-      "date": "2025-02-17T00:25:31+08:00"
+      "hash": "0f7fa5cad64d0260e9732560b9c2736d7262efec",
+      "date": "2025-02-17T09:55:42+08:00"
     },
     {
       "name": "whatsapp",
