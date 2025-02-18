@@ -1261,6 +1261,20 @@
       "date": "2023-11-10T14:14:26+07:00"
     },
     {
+      "name": "bilibili",
+      "size": "152894",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/bilibili.ico",
+      "hash": "68dc0d9344ed3fd1e31b79e9cb4d91e31563ae98",
+      "date": "2025-02-18T11:18:39+08:00"
+    },
+    {
+      "name": "bilibili_white",
+      "size": "151440",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/bilibili_white.ico",
+      "hash": "053dd97d4d12787b2360aea80cab0dd93b0a59cc",
+      "date": "2025-02-18T11:21:42+08:00"
+    },
+    {
       "name": "bitbucket",
       "size": "148501",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/bitbucket.ico",
@@ -3480,6 +3494,20 @@
       "date": "2021-12-10T14:01:05+07:00"
     },
     {
+      "name": "lark",
+      "size": "152954",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/lark.ico",
+      "hash": "ce991de1ae51adfdb4dd20ef7cc7c813762b7f7a",
+      "date": "2025-02-18T11:30:02+08:00"
+    },
+    {
+      "name": "lark_white",
+      "size": "149068",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/lark_white.ico",
+      "hash": "c5a3695365084248b9fc8a94828eb9cd71f0e9da",
+      "date": "2025-02-18T11:35:46+08:00"
+    },
+    {
       "name": "latex-1",
       "size": "155918",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/latex-1.ico",
@@ -4619,6 +4647,20 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/nestjs.ico",
       "hash": "0e1a8ca2a20e4b33e21def11e4695168e17758e5",
       "date": "2023-12-15T09:04:52+07:00"
+    },
+    {
+      "name": "netease_cloud_music",
+      "size": "149826",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/netease_cloud_music.ico",
+      "hash": "1118f74c4b18c91b584110412eee7332adbc208b",
+      "date": "2025-02-18T11:04:01+08:00"
+    },
+    {
+      "name": "netease_cloud_music_white",
+      "size": "153083",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/netease_cloud_music_white.ico",
+      "hash": "d9510f46bbb79446b1adc2a6ae065966e2fd42ee",
+      "date": "2025-02-18T11:13:37+08:00"
     },
     {
       "name": "netflix-1",
@@ -6939,10 +6981,10 @@
     },
     {
       "name": "wechat",
-      "size": "152912",
+      "size": "152804",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/wechat.ico",
-      "hash": "0f7fa5cad64d0260e9732560b9c2736d7262efec",
-      "date": "2025-02-17T09:55:42+08:00"
+      "hash": "0d551202ac768ae25100af93201dbbe256bda162",
+      "date": "2025-02-18T11:12:29+08:00"
     },
     {
       "name": "whatsapp",
