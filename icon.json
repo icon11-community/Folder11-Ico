@@ -211,6 +211,27 @@
       "date": "2024-12-16T15:21:48+07:00"
     },
     {
+      "name": "Kicad_GERBER",
+      "size": "149213",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Kicad_GERBER.ico",
+      "hash": "fb5abfe31d17a08ce473f9dd8385d4c91c3d8b75",
+      "date": "2025-02-18T19:05:27+07:00"
+    },
+    {
+      "name": "Kicad_PCB",
+      "size": "162831",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Kicad_PCB.ico",
+      "hash": "bfcc455ac2cc422ffb85af8156da3180b4c13e40",
+      "date": "2025-02-18T19:05:27+07:00"
+    },
+    {
+      "name": "Kicad_SCH",
+      "size": "152481",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Kicad_SCH.ico",
+      "hash": "47265499e4424e4f8699b50bc6561e36c0875c9c",
+      "date": "2025-02-18T19:05:27+07:00"
+    },
+    {
       "name": "MiniWorld_Main",
       "size": "150022",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/MiniWorld_Main.ico",
