@@ -4761,11 +4761,25 @@
       "date": "2024-11-16T01:53:30+07:00"
     },
     {
+      "name": "nintendo_64",
+      "size": "151607",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/nintendo_64.ico",
+      "hash": "33252348f05f9558e655de4ece978f09b850ed23",
+      "date": "2025-02-18T12:45:22+08:00"
+    },
+    {
       "name": "nintendo_ds",
       "size": "144364",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/nintendo_ds.ico",
       "hash": "4ad0bd665e6274b403c38e9db8a02b58d60679ab",
       "date": "2024-11-16T01:53:30+07:00"
+    },
+    {
+      "name": "nintendo_entertainment_system",
+      "size": "150321",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/nintendo_entertainment_system.ico",
+      "hash": "71e1e81616129a7ed1e1d82f8d95dd0eb710a69b",
+      "date": "2025-02-18T12:27:11+08:00"
     },
     {
       "name": "nintendo_gameboy",
@@ -5235,6 +5249,13 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/playstation.ico",
       "hash": "f601c63debcc9d74acb89765fec1083fb4abedf3",
       "date": "2021-12-05T21:54:19+07:00"
+    },
+    {
+      "name": "playstation_1",
+      "size": "147700",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/playstation_1.ico",
+      "hash": "701c85d3e6ef419432c7415479b8679a1732a8e6",
+      "date": "2025-02-18T12:58:13+08:00"
     },
     {
       "name": "plex",
@@ -6313,6 +6334,13 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/supabase.ico",
       "hash": "9927fc0ab8c47193a8211bb0fa65d18e50cbfe59",
       "date": "2023-12-15T09:04:52+07:00"
+    },
+    {
+      "name": "super_nintendo_entertainment_system",
+      "size": "152942",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/super_nintendo_entertainment_system.ico",
+      "hash": "b724b77ed943f7929e51003c406e78be62acb85c",
+      "date": "2025-02-18T12:40:30+08:00"
     },
     {
       "name": "supercell",
