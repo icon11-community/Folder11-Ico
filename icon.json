@@ -1248,10 +1248,10 @@
     },
     {
       "name": "baidu_netdisk",
-      "size": "151669",
+      "size": "153665",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/baidu_netdisk.ico",
-      "hash": "c62f022e6ec8e53cb92738f6615602774c8e907c",
-      "date": "2023-11-20T08:41:58+08:00"
+      "hash": "8cf291e068a7156111e2e0974e7087fc3557f32d",
+      "date": "2025-02-19T15:17:21+08:00"
     },
     {
       "name": "bard",
@@ -4425,11 +4425,18 @@
       "date": "2022-01-25T15:31:28+07:00"
     },
     {
+      "name": "microsoft_windows_10-1",
+      "size": "147133",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_windows_10-1.ico",
+      "hash": "c8d28e63785e771a38bc9e11233c844477a14b31",
+      "date": "2025-02-19T15:46:09+08:00"
+    },
+    {
       "name": "microsoft_windows_10",
-      "size": "147405",
+      "size": "147387",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_windows_10.ico",
-      "hash": "1df4b1e50990a1e3b5465e6de627c6452d4e8de5",
-      "date": "2021-12-16T16:24:55+07:00"
+      "hash": "ec171b00a920b3fed7e793d6a7710fba5ede4dce",
+      "date": "2025-02-19T15:29:01+08:00"
     },
     {
       "name": "microsoft_windows_11-1",
@@ -4440,31 +4447,52 @@
     },
     {
       "name": "microsoft_windows_11",
-      "size": "147610",
+      "size": "147705",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_windows_11.ico",
-      "hash": "0d6b125164466985983788e3d65734c970cab08f",
-      "date": "2021-12-16T16:24:55+07:00"
+      "hash": "44fcf63de48ceed5b05eac655374745ddda4d1b6",
+      "date": "2025-02-19T15:29:01+08:00"
+    },
+    {
+      "name": "microsoft_windows_7-1",
+      "size": "149325",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_windows_7-1.ico",
+      "hash": "ba6b24ada895b5ca2b6735bfe98a614a0344ab2e",
+      "date": "2025-02-19T15:42:53+08:00"
     },
     {
       "name": "microsoft_windows_7",
-      "size": "149400",
+      "size": "150239",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_windows_7.ico",
-      "hash": "e8aa64ccfab67589ad98421239e5924ac4cb2f29",
-      "date": "2021-12-16T16:24:55+07:00"
+      "hash": "ce358ef1e3f3c6ca1b07648eda45bffbad7dfc27",
+      "date": "2025-02-19T15:41:28+08:00"
+    },
+    {
+      "name": "microsoft_windows_8-1",
+      "size": "146211",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_windows_8-1.ico",
+      "hash": "53b6d62f310bda6cfc5ec778962a293dfe9a9d96",
+      "date": "2025-02-19T15:42:53+08:00"
     },
     {
       "name": "microsoft_windows_8",
-      "size": "146410",
+      "size": "146797",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_windows_8.ico",
-      "hash": "7b3a92745cef63a8e3d4988d9fe0d5b178c0cb57",
-      "date": "2021-12-16T16:24:55+07:00"
+      "hash": "b4442a6e7aa0701bd6bf11c2c8f7b30d840fdeb1",
+      "date": "2025-02-19T15:29:01+08:00"
+    },
+    {
+      "name": "microsoft_windows_xp-1",
+      "size": "151402",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_windows_xp-1.ico",
+      "hash": "c087c5a98720627241b4668a9717dbbac31e0a78",
+      "date": "2025-02-19T15:46:09+08:00"
     },
     {
       "name": "microsoft_windows_xp",
-      "size": "151513",
+      "size": "153225",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_windows_xp.ico",
-      "hash": "cba6390783d9fb76d8f525699a9b51138d15b361",
-      "date": "2021-12-16T16:24:55+07:00"
+      "hash": "cd5b76a0ad719c5da96dd072e1c0522cde2e895b",
+      "date": "2025-02-19T15:29:01+08:00"
     },
     {
       "name": "microsoft_word-1",
