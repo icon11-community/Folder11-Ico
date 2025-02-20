@@ -4726,6 +4726,13 @@
       "date": "2023-12-15T09:04:52+07:00"
     },
     {
+      "name": "netease_cloud_music-1",
+      "size": "150662",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/netease_cloud_music-1.ico",
+      "hash": "b303c97d2c37f3e37d383268b699caf936ac9342",
+      "date": "2025-02-20T11:11:47+08:00"
+    },
+    {
       "name": "netease_cloud_music",
       "size": "150670",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/netease_cloud_music.ico",
@@ -7090,6 +7097,13 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/webpack.ico",
       "hash": "b7fb4d65b70f86081c345279a9a05ef4444d16a0",
       "date": "2023-11-08T14:58:12+07:00"
+    },
+    {
+      "name": "wechat-1",
+      "size": "149294",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/wechat-1.ico",
+      "hash": "e94241a7408b1edbd6f4557a72ef7e9862be6f98",
+      "date": "2025-02-20T11:11:47+08:00"
     },
     {
       "name": "wechat",
