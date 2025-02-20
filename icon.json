@@ -1597,6 +1597,13 @@
       "date": "2022-03-17T17:32:16+07:00"
     },
     {
+      "name": "civitai",
+      "size": "61563",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/civitai.ico",
+      "hash": "b6556cec579876aeccd5eabe02e9ed50ce67fe8b",
+      "date": "2025-02-20T18:10:41+07:00"
+    },
+    {
       "name": "clash_royale",
       "size": "72295",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/clash_royale.ico",
@@ -1651,6 +1658,13 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/coin.ico",
       "hash": "0195427af45626d96a7fbd52737e50f68d81cec4",
       "date": "2022-02-16T08:47:01+07:00"
+    },
+    {
+      "name": "comfyui",
+      "size": "76441",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/comfyui.ico",
+      "hash": "8b57adb3d30c04c057e50a6bd454ada8dc02d9de",
+      "date": "2025-02-20T18:10:41+07:00"
     },
     {
       "name": "concepts-1",
@@ -2295,6 +2309,13 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/flutter.ico",
       "hash": "5fd9dcf92937e4270b6ded85e00cc9c394c6b4c4",
       "date": "2021-12-10T14:01:05+07:00"
+    },
+    {
+      "name": "flux",
+      "size": "64386",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/flux.ico",
+      "hash": "f17bdee23aaed9c373996553ff02618b4b918e04",
+      "date": "2025-02-20T18:10:41+07:00"
     },
     {
       "name": "folder11",
@@ -2974,6 +2995,13 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/htmx.ico",
       "hash": "ae53f70c6ffc4b65a468cd77f87206fe3ea1982d",
       "date": "2024-12-16T15:32:11+07:00"
+    },
+    {
+      "name": "huggingface",
+      "size": "63366",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/huggingface.ico",
+      "hash": "8b743e99f6e7f4b4a22c8ce7630f90770692d8c0",
+      "date": "2025-02-20T18:10:41+07:00"
     },
     {
       "name": "hulu",
@@ -3681,6 +3709,13 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/lit.ico",
       "hash": "5c6206a7a0cd62239719711a02f46b7e83b0b19e",
       "date": "2023-12-15T09:04:52+07:00"
+    },
+    {
+      "name": "lmstudio",
+      "size": "61453",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/lmstudio.ico",
+      "hash": "b954898f3632e26dc6175b4435db1817a1b0640a",
+      "date": "2025-02-20T18:10:41+07:00"
     },
     {
       "name": "lock",
@@ -5081,6 +5116,13 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/octave.ico",
       "hash": "7d82734c5cfa0e18183c3c6ccbe5e9f0d405394a",
       "date": "2023-12-15T09:04:52+07:00"
+    },
+    {
+      "name": "ollama",
+      "size": "58607",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/ollama.ico",
+      "hash": "a72f02ac0102b55a719c0c72f22a1985a9c5eace",
+      "date": "2025-02-20T18:10:41+07:00"
     },
     {
       "name": "onedrive-1",
