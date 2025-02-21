@@ -1,3 +1,52 @@
 {
-  "icons": []
+  "icons": [
+    {
+      "name": "Krita",
+      "size": "69538",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Krita.ico",
+      "hash": "850d326918f437eb13843f42160d57395cd02f8b",
+      "date": "2025-02-21T09:55:20+07:00",
+      "url_small_icon": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/Krita.svg"
+    },
+    {
+      "name": "civitai",
+      "size": "61563",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/civitai.ico",
+      "hash": "13468f1c17f9675587956fee694e2510f69d705c",
+      "date": "2025-02-20T18:10:41+07:00",
+      "url_small_icon": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/civitai.svg"
+    },
+    {
+      "name": "comfyui",
+      "size": "76441",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/comfyui.ico",
+      "hash": "543546cdde48a8f72c7f33efd3d9748d9c8ec420",
+      "date": "2025-02-20T18:10:41+07:00",
+      "url_small_icon": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/comfyui.svg"
+    },
+    {
+      "name": "google_family",
+      "size": "57631",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/google_family.ico",
+      "hash": "fbcf30d08fadedb04ca71cf9f87c7422686b3855",
+      "date": "2025-02-13T17:36:18+07:00",
+      "url_small_icon": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/google_family.svg"
+    },
+    {
+      "name": "huggingface",
+      "size": "63366",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/huggingface.ico",
+      "hash": "ee8a0dffbe66865e6b6c427de42b80680371c65c",
+      "date": "2025-02-20T18:10:41+07:00",
+      "url_small_icon": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/huggingface.svg"
+    },
+    {
+      "name": "microsoft_designer",
+      "size": "63385",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/microsoft_designer.ico",
+      "hash": "c7681cf4b4594b5643e49df208876dfebda6c4ca",
+      "date": "2025-02-13T17:36:18+07:00",
+      "url_small_icon": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/microsoft_designer.svg"
+    }
+  ]
 }
