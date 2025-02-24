@@ -1393,6 +1393,22 @@
       "small_svg_url": ""
     },
     {
+      "name": "avaloia_border",
+      "size": "59687",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/avaloia_border.ico",
+      "hash": "33295ec3b6731f44789156e625377cebf6de8132",
+      "date": "2025-02-24T09:06:45+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "avalonia",
+      "size": "59171",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/avalonia.ico",
+      "hash": "101b41264a850e71cf6e037a73c49ed329c84c46",
+      "date": "2025-02-24T09:06:43+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "avermedia",
       "size": "63740",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/avermedia.ico",
@@ -2025,6 +2041,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "cupcut",
+      "size": "62161",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/cupcut.ico",
+      "hash": "d7a1dc2f0d25b5c01af5b8684d0e112991dda3a4",
+      "date": "2025-02-24T09:06:41+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "cypress",
       "size": "65324",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/cypress.ico",
@@ -2222,6 +2246,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/drawing.ico",
       "hash": "e695cf42135f02e70069d1a8964a676dda830d0f",
       "date": "2022-02-10T09:17:03+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "drawio",
+      "size": "55934",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/drawio.ico",
+      "hash": "8b9c3a4651fb792512fd27cfa337f2591ce1f60b",
+      "date": "2025-02-24T09:17:18+07:00",
       "small_svg_url": ""
     },
     {
@@ -3361,6 +3393,22 @@
       "small_svg_url": ""
     },
     {
+      "name": "hbuilderx",
+      "size": "57141",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/hbuilderx.ico",
+      "hash": "be5b31f79b07dc722543aec473eab7c506625ecf",
+      "date": "2025-02-24T08:59:37+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "hbuilderx_text",
+      "size": "61302",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/hbuilderx_text.ico",
+      "hash": "2bb83e46fb01f59feccaf4b9c6f778fcd2088a4c",
+      "date": "2025-02-24T09:00:58+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "heroku",
       "size": "56038",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/heroku.ico",
@@ -3510,6 +3558,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/idea.ico",
       "hash": "74fedee2beebcbde6a16676948ac3a3249e0ed6c",
       "date": "2023-12-15T09:04:52+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "imax",
+      "size": "55145",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/imax.ico",
+      "hash": "1ed66e43ca672fe7224872140f85bf8e54b9df64",
+      "date": "2025-02-24T09:06:38+07:00",
       "small_svg_url": ""
     },
     {
@@ -4070,6 +4126,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/kubernetes.ico",
       "hash": "aedb4e5fdde7beb39ed4fc1b427e6d73695684bc",
       "date": "2023-11-10T14:14:26+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "kugou_music",
+      "size": "53183",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/kugou_music.ico",
+      "hash": "f320d4a7a72bde9c04de2a1973607adbc919005d",
+      "date": "2025-02-24T09:06:35+07:00",
       "small_svg_url": ""
     },
     {
@@ -6809,6 +6873,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "qq",
+      "size": "62447",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/qq.ico",
+      "hash": "617e001d6943c9985f66be0645ddc1cad6a4323b",
+      "date": "2025-02-24T09:06:34+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "qt",
       "size": "59980",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/qt.ico",
@@ -7705,6 +7777,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "typora",
+      "size": "52342",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/typora.ico",
+      "hash": "d4613aacf44c46a248f1bd3922881d6e8d174874",
+      "date": "2025-02-24T09:06:32+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "ubisoft_connect",
       "size": "74691",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/ubisoft_connect.ico",
@@ -8054,6 +8134,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/vlc.ico",
       "hash": "741aafb36139a01c75614b535a0c8f5dc87e59a4",
       "date": "2021-12-09T09:26:39+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "vm_workstation",
+      "size": "60794",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/vm_workstation.ico",
+      "hash": "c09506a92ca9e7c73ac75292d2981021c6e648ff",
+      "date": "2025-02-24T09:06:30+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "vnote",
+      "size": "56166",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/vnote.ico",
+      "hash": "78e1f4569beb461afcb596a7b7f90e7cfe702890",
+      "date": "2025-02-24T09:06:26+07:00",
       "small_svg_url": ""
     },
     {
