@@ -1393,19 +1393,19 @@
       "small_svg_url": ""
     },
     {
-      "name": "avaloia_border",
-      "size": "59687",
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/avaloia_border.ico",
-      "hash": "33295ec3b6731f44789156e625377cebf6de8132",
-      "date": "2025-02-24T09:06:45+07:00",
-      "small_svg_url": ""
-    },
-    {
       "name": "avalonia",
       "size": "59171",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/avalonia.ico",
       "hash": "101b41264a850e71cf6e037a73c49ed329c84c46",
       "date": "2025-02-24T09:06:43+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "avalonia_border",
+      "size": "59687",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/avalonia_border.ico",
+      "hash": "33295ec3b6731f44789156e625377cebf6de8132",
+      "date": "2025-02-24T15:18:38+07:00",
       "small_svg_url": ""
     },
     {
