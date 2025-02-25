@@ -953,6 +953,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "amiga_folder_09",
+      "size": "73541",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/amiga_folder_09.ico",
+      "hash": "91e332cc621785577f1133df13f8d2128a917760",
+      "date": "2025-02-25T10:15:14+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "android-1",
       "size": "58395",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/android-1.ico",
@@ -2225,6 +2233,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "dosbox_new_01",
+      "size": "64255",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/dosbox_new_01.ico",
+      "hash": "3a726e750193c6d4d95770783e1462ecd42bcf67",
+      "date": "2025-02-25T10:15:14+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "dotnet",
       "size": "58215",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/dotnet.ico",
@@ -2966,6 +2982,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/gatsby.ico",
       "hash": "ce54b463f57c5515d495dbc46fe63e45af3cb36f",
       "date": "2023-11-10T14:14:26+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "gba_03",
+      "size": "62152",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/gba_03.ico",
+      "hash": "a9734019801735a250070e0aa22aa0cbcb8df145",
+      "date": "2025-02-25T10:15:14+07:00",
       "small_svg_url": ""
     },
     {
@@ -6129,6 +6153,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "pico8_reworked_02",
+      "size": "58367",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/pico8_reworked_02.ico",
+      "hash": "f497c159da66bdbb268f61cfc0960acb4bea5d4a",
+      "date": "2025-02-25T10:15:14+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "pictures-1",
       "size": "69752",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/pictures-1.ico",
@@ -7230,6 +7262,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/screen_shot.ico",
       "hash": "05e61d14fe39b197a2a5c48d0fa2158641945ed7",
       "date": "2022-01-06T19:21:03+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "scummvm",
+      "size": "64920",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/scummvm.ico",
+      "hash": "6a3d1dc8ac55d45b6904875eb5050b113ba460db",
+      "date": "2025-02-25T10:15:14+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "scummvm04",
+      "size": "62878",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/scummvm04.ico",
+      "hash": "1deb56624c976936ac26d5cfd477550f0f989038",
+      "date": "2025-02-25T10:15:14+07:00",
       "small_svg_url": ""
     },
     {
@@ -8918,6 +8966,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/zotero.ico",
       "hash": "5eac13d5174d39f42b044dbbf2cb9b188f8a6bfd",
       "date": "2025-01-29T08:41:33Z",
+      "small_svg_url": ""
+    },
+    {
+      "name": "zx_speccy02",
+      "size": "56054",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/zx_speccy02.ico",
+      "hash": "97d35a55e705a6a8bb5c5c83bf67f68515c2934c",
+      "date": "2025-02-25T10:15:14+07:00",
       "small_svg_url": ""
     }
   ]
