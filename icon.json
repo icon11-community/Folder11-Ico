@@ -4433,6 +4433,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "mame_arcade",
+      "size": "66633",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/mame_arcade.ico",
+      "hash": "b8840d03faa239472a46495ac4afb92c3ca3b4d4",
+      "date": "2025-02-25T17:29:21+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "manjaro",
       "size": "55236",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/manjaro.ico",
