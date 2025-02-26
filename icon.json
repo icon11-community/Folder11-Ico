@@ -6114,10 +6114,10 @@
     },
     {
       "name": "pc_engine",
-      "size": "57650",
+      "size": "57209",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/pc_engine.ico",
-      "hash": "7d49eab1ca0c6c952b38eb6b44c29bd06775e1b7",
-      "date": "2025-02-26T09:49:09+07:00",
+      "hash": "db68fb3ebb1479bc294839329bfda2613598f7a9",
+      "date": "2025-02-26T09:54:16+07:00",
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/pc_engine.svg"
     },
     {
