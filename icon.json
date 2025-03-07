@@ -250,18 +250,26 @@
     },
     {
       "name": "KUROGAME-1",
-      "size": "49390",
+      "size": "49443",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/KUROGAME-1.ico",
-      "hash": "5de76e995c3c432bf512c17536a547d1b3e9a53c",
-      "date": "2025-03-06T08:37:47+07:00",
+      "hash": "198329ff17fd6ac574f25d3622c7dc61f6e024ca",
+      "date": "2025-03-06T21:35:34+08:00",
       "small_svg_url": ""
     },
     {
       "name": "KUROGAME-2",
-      "size": "49568",
+      "size": "49622",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/KUROGAME-2.ico",
-      "hash": "56712a0d354973f862f1aebfbd4383be58a3158a",
-      "date": "2025-03-06T08:37:47+07:00",
+      "hash": "fa19567fcd4ad27d91840017f90c0af0ef3b9775",
+      "date": "2025-03-06T21:35:34+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "KUROGAME-3",
+      "size": "55904",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/KUROGAME-3.ico",
+      "hash": "bec799450bcd4125984afcf6417df6023be1ded8",
+      "date": "2025-03-06T21:35:34+08:00",
       "small_svg_url": ""
     },
     {
