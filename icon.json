@@ -1489,6 +1489,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "bambu_studio",
+      "size": "58509",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/bambu_studio.ico",
+      "hash": "9b90a1788137aac795b535e61cb3dcb75ccad178",
+      "date": "2025-03-07T23:56:49+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "bard",
       "size": "73032",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/bard.ico",
@@ -2078,6 +2086,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/cupcut.ico",
       "hash": "d7a1dc2f0d25b5c01af5b8684d0e112991dda3a4",
       "date": "2025-02-24T09:06:41+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "cyberpunk_2077",
+      "size": "61208",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/cyberpunk_2077.ico",
+      "hash": "501f328a4943b19c6f430948199d1f295a26ac29",
+      "date": "2025-03-07T23:56:49+08:00",
       "small_svg_url": ""
     },
     {
@@ -2758,6 +2774,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/forth.ico",
       "hash": "7ab4ad2bbb31327aafa97cf188bea54e70b6102e",
       "date": "2023-11-10T14:14:26+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "fortnite",
+      "size": "55239",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/fortnite.ico",
+      "hash": "01474400849600289c06af688a2294cdd7785f58",
+      "date": "2025-03-07T23:56:49+08:00",
       "small_svg_url": ""
     },
     {
@@ -7758,6 +7782,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/tes_skyrim.ico",
       "hash": "927da9585d65d7e8310d19409ec98166e453c383",
       "date": "2025-01-07T18:51:50+01:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "the_witcher_3",
+      "size": "55066",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/the_witcher_3.ico",
+      "hash": "697f6271f49cc9bfd331950d81e2942086231f62",
+      "date": "2025-03-07T23:56:49+08:00",
       "small_svg_url": ""
     },
     {
