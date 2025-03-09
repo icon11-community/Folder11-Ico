@@ -250,26 +250,58 @@
     },
     {
       "name": "KUROGAME-1",
-      "size": "49443",
+      "size": "49639",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/KUROGAME-1.ico",
-      "hash": "198329ff17fd6ac574f25d3622c7dc61f6e024ca",
-      "date": "2025-03-06T21:35:34+08:00",
+      "hash": "986e3e4548c5190fd7b1234b36ed42c41c5248f3",
+      "date": "2025-03-08T23:18:06+08:00",
       "small_svg_url": ""
     },
     {
       "name": "KUROGAME-2",
-      "size": "49622",
+      "size": "49436",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/KUROGAME-2.ico",
-      "hash": "fa19567fcd4ad27d91840017f90c0af0ef3b9775",
-      "date": "2025-03-06T21:35:34+08:00",
+      "hash": "41eb542060e11c599ec344ba49c0a06d8c88d49f",
+      "date": "2025-03-08T23:18:06+08:00",
       "small_svg_url": ""
     },
     {
       "name": "KUROGAME-3",
-      "size": "55904",
+      "size": "55917",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/KUROGAME-3.ico",
-      "hash": "bec799450bcd4125984afcf6417df6023be1ded8",
-      "date": "2025-03-06T21:35:34+08:00",
+      "hash": "0b8cdc97bcb68dbadbdeb7bdef510eb3d7579b2e",
+      "date": "2025-03-08T23:18:06+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "KUROGAME-4",
+      "size": "55215",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/KUROGAME-4.ico",
+      "hash": "a86e8826481bc9bd880f28d82d8953e55df8950a",
+      "date": "2025-03-08T23:18:06+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "KUROGAME-5",
+      "size": "57407",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/KUROGAME-5.ico",
+      "hash": "8dff08aaeea2dd805a4d6c31821e07be4570b50a",
+      "date": "2025-03-08T23:18:06+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "KUROGAME-6",
+      "size": "58636",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/KUROGAME-6.ico",
+      "hash": "b1b01ecb5327f1fb3b3a73132eaf9af0722e3ab1",
+      "date": "2025-03-08T23:18:06+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "KUROGAME-7",
+      "size": "56338",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/KUROGAME-7.ico",
+      "hash": "7b026a8f0c45599fec6916cfc64976f8c0a4a2bd",
+      "date": "2025-03-08T23:18:06+08:00",
       "small_svg_url": ""
     },
     {
@@ -303,6 +335,46 @@
       "hash": "850d326918f437eb13843f42160d57395cd02f8b",
       "date": "2025-02-21T09:55:20+07:00",
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/Krita.svg"
+    },
+    {
+      "name": "LocalSend-1",
+      "size": "63797",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/LocalSend-1.ico",
+      "hash": "86e469e2aad7dff23c7f98290519dc62fd3b7cd0",
+      "date": "2025-03-08T23:18:06+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "LocalSend-2",
+      "size": "63446",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/LocalSend-2.ico",
+      "hash": "bef8c2a5b0e4013bc641d97469d3518e76305314",
+      "date": "2025-03-08T23:18:06+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "LocalSend-3",
+      "size": "62524",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/LocalSend-3.ico",
+      "hash": "9b58399384d354cd8d2328cc1e8c672cf87dbab0",
+      "date": "2025-03-08T23:18:06+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "LocalSend-5",
+      "size": "61650",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/LocalSend-5.ico",
+      "hash": "11812ae05a11ed3d10d56b6427d1449eb31ce4b7",
+      "date": "2025-03-08T23:18:06+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "LocalSend-6",
+      "size": "61482",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/LocalSend-6.ico",
+      "hash": "b2a060a9af9bc73836eb7d2291d42914283626d7",
+      "date": "2025-03-08T23:18:06+08:00",
+      "small_svg_url": ""
     },
     {
       "name": "Microsoft_Package_Download-1",
