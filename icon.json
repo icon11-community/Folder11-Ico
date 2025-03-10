@@ -81,6 +81,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "AltiumDesigner",
+      "size": "56919",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/AltiumDesigner.ico",
+      "hash": "b56c642e7af385396ba7738e7535d8e4dd615ac3",
+      "date": "2025-03-10T18:25:18+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "Contacts",
       "size": "59566",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Contacts.ico",
@@ -182,6 +190,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Directory_Homer_Simpsons.ico",
       "hash": "fc65c5cf508cda9373db82d4c769bb0c4906654b",
       "date": "2025-02-19T10:13:49+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "EASYEDA",
+      "size": "58246",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/EASYEDA.ico",
+      "hash": "39a664bfde3e77d62be516d5d72b6f0b30a6dba3",
+      "date": "2025-03-10T18:25:18+08:00",
       "small_svg_url": ""
     },
     {
@@ -2150,6 +2166,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/css.ico",
       "hash": "93c3abffc342ed675c7ba25bf58dfdd0819c6a95",
       "date": "2021-12-07T16:14:09+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "cubeIDE",
+      "size": "54758",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/cubeIDE.ico",
+      "hash": "38fe16b6bfac142213a8a2398fdea4e8f280d4a3",
+      "date": "2025-03-10T18:25:18+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "cubeMX",
+      "size": "57424",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/cubeMX.ico",
+      "hash": "5e503d4a47df76626c83a1fee3aec6ee09179afb",
+      "date": "2025-03-10T18:25:18+08:00",
       "small_svg_url": ""
     },
     {
@@ -4206,6 +4238,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/kde.ico",
       "hash": "d7bdbd797675c1136d74454e34c815e9b2cab19c",
       "date": "2021-12-15T20:25:13+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "keil4",
+      "size": "56723",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/keil4.ico",
+      "hash": "e96000250f920a9265d7f066fff5b1229bd3f689",
+      "date": "2025-03-10T18:25:18+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "keil5",
+      "size": "57784",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/keil5.ico",
+      "hash": "cc4fbc8b3eb79644b94b4e4360db34eab9643b25",
+      "date": "2025-03-10T18:25:18+08:00",
       "small_svg_url": ""
     },
     {
