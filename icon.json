@@ -273,6 +273,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "GoWin",
+      "size": "62968",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/GoWin.ico",
+      "hash": "5fea559aa384caa0664a43abfb578bc823239791",
+      "date": "2025-03-11T16:35:09+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "KUROGAME-1",
       "size": "49639",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/KUROGAME-1.ico",
@@ -438,6 +446,22 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Scoop.ico",
       "hash": "470832ba1bb515164455d79459356f12ebf00d53",
       "date": "2023-05-27T02:14:02+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Vivado",
+      "size": "55183",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Vivado.ico",
+      "hash": "ddce9bf8b9bcd2fa821fbc3572a645e1e767a655",
+      "date": "2025-03-11T16:35:09+08:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Xilinx",
+      "size": "55322",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Xilinx.ico",
+      "hash": "3b4bb498438bc875f4b4ab8c63fdbad378f82f9c",
+      "date": "2025-03-11T16:35:09+08:00",
       "small_svg_url": ""
     },
     {
