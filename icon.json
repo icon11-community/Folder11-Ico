@@ -89,6 +89,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "CCS",
+      "size": "58481",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/CCS.ico",
+      "hash": "f317785016c47db4a0292e2247105f1ee06e09ac",
+      "date": "2025-03-11T00:55:16+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "Contacts",
       "size": "59566",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Contacts.ico",
@@ -1910,6 +1918,14 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/calibre.ico",
       "hash": "b84b2ec2fde728d1e0b0cd4e79507ea4e177255f",
       "date": "2022-01-21T09:51:28+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "canMV",
+      "size": "64129",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/canMV.ico",
+      "hash": "0327c2eb253d55ccf104b018a634693dd8426e2c",
+      "date": "2025-03-11T00:55:16+08:00",
       "small_svg_url": ""
     },
     {
