@@ -8388,9 +8388,9 @@
       "name": "virtualbox",
       "size": "56163",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/virtualbox.ico",
-      "hash": "d30828320b6767cb4d51326c8920670afb956481",
+      "hash": "71e1746a0d85cc1297a14efaa77727b046c38b7b",
       "date": "2025-01-12T22:13:16-05:00",
-      "small_svg_url": ""
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/virtualbox.svg"
     },
     {
       "name": "visual_studio",
