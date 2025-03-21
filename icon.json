@@ -209,6 +209,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "Electronic_Arts-1",
+      "size": "62855",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Electronic_Arts-1.ico",
+      "hash": "f755e4f6caa5c24575348eddfdf0bd664b278e58",
+      "date": "2025-03-21T11:16:37+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "Font-2",
       "size": "60143",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Font-2.ico",
@@ -446,6 +454,30 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Scoop.ico",
       "hash": "470832ba1bb515164455d79459356f12ebf00d53",
       "date": "2023-05-27T02:14:02+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "Shortcuts",
+      "size": "58542",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Shortcuts.ico",
+      "hash": "aadf379202417b03e5ef3376ec73bf69adfef34d",
+      "date": "2025-03-21T11:16:37+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "The_Pirate_Bay-1",
+      "size": "64860",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/The_Pirate_Bay-1.ico",
+      "hash": "7eae30889ab2044d784a15dea82bcdc31d7f91e9",
+      "date": "2025-03-21T11:16:37+07:00",
+      "small_svg_url": ""
+    },
+    {
+      "name": "The_Pirate_Bay",
+      "size": "76559",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/The_Pirate_Bay.ico",
+      "hash": "1c692b905bacd8bd9a86c4c1d2579601cc6afd94",
+      "date": "2025-03-21T11:16:37+07:00",
       "small_svg_url": ""
     },
     {
