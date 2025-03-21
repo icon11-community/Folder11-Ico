@@ -217,6 +217,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "Electronic_Arts",
+      "size": "60482",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Electronic_Arts.ico",
+      "hash": "407a7f0d847a53787a1bcc95301381791a444c91",
+      "date": "2025-03-21T11:19:26+07:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "Font-2",
       "size": "60143",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/Font-2.ico",
@@ -2526,14 +2534,6 @@
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/dynamodb.ico",
       "hash": "3eedc96b1797085b376e84689efeb8fcb5fe0fcc",
       "date": "2023-11-10T14:14:26+07:00",
-      "small_svg_url": ""
-    },
-    {
-      "name": "ea",
-      "size": "60482",
-      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/ea.ico",
-      "hash": "407a7f0d847a53787a1bcc95301381791a444c91",
-      "date": "2021-12-05T21:54:19+07:00",
       "small_svg_url": ""
     },
     {
