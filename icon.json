@@ -8457,12 +8457,28 @@
       "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/virtualbox.svg"
     },
     {
+      "name": "visual_studio-1",
+      "size": "64200",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/visual_studio-1.ico",
+      "hash": "828d1be12e95dfd41b4f5bcf1fa5adf971ac55d8",
+      "date": "2025-03-23T00:28:58+01:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/visual_studio-1.svg"
+    },
+    {
       "name": "visual_studio",
       "size": "62919",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/visual_studio.ico",
       "hash": "1d58d5c577d788a0cf71b139a5b880800173a631",
       "date": "2021-12-05T21:54:19+07:00",
       "small_svg_url": ""
+    },
+    {
+      "name": "visual_studio_code-1",
+      "size": "63778",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder11-Ico/main/ico/visual_studio_code-1.ico",
+      "hash": "d565d52bfe19759d7cd9f18843b0a5d532fc0dd1",
+      "date": "2025-03-23T00:28:58+01:00",
+      "small_svg_url": "https://raw.githubusercontent.com/icon11-community/Folder11/main/small/visual_studio_code-1.svg"
     },
     {
       "name": "visual_studio_code",
