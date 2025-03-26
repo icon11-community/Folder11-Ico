@@ -457,6 +457,14 @@
       "small_svg_url": ""
     },
     {
+      "name": "OpenCV",
+      "size": "58279",
+      "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/OpenCV.ico",
+      "hash": "50dea7657c3421c296b0137342e0764eb8fcb9c3",
+      "date": "2025-03-25T21:17:11+08:00",
+      "small_svg_url": ""
+    },
+    {
       "name": "Scoop",
       "size": "64068",
       "url_icon": "https://raw.githubusercontent.com/icon11-community/Folder-Ico/main/ico/Scoop.ico",
